@@ -1,0 +1,217 @@
+# Banking Knowledge Base
+
+## 1. Savings Account
+
+A savings account is a bank account that allows customers to deposit money and earn interest. Customers can deposit and withdraw money according to the bank's rules.
+
+To open a savings account, customers generally need to provide identity proof, address proof, a PAN card or Form 60 where applicable, and complete the bank's Know Your Customer (KYC) process.
+
+The minimum balance requirement depends on the bank and the type of savings account. Some accounts have no minimum balance requirement.
+
+Banks may provide debit cards, mobile banking, internet banking, and UPI facilities to eligible savings account holders.
+
+## 2. Current Account
+
+A current account is primarily designed for businesses, traders, and organisations that need to make frequent transactions.
+
+Current accounts generally support frequent deposits and withdrawals. Unlike savings accounts, they typically do not pay interest on the account balance.
+
+The minimum balance requirement and service charges depend on the bank and the account type.
+
+Businesses may need to submit additional documents, such as business registration documents, depending on their legal structure and the bank's requirements.
+
+## 3. Fixed Deposit
+
+A fixed deposit (FD) is a financial product in which a customer deposits a specific amount for a chosen period at an agreed interest rate.
+
+The deposit period may range from a few days to several years, depending on the bank's available products.
+
+The interest rate depends on the bank, deposit period, deposit amount, and customer category.
+
+Customers can generally choose cumulative or periodic interest payouts, depending on the deposit scheme.
+
+Premature withdrawal may be allowed, but penalties or reduced interest may apply.
+
+Before investing, customers should check the applicable interest rate, maturity amount, premature withdrawal rules, and deposit insurance provisions.
+
+## 4. Recurring Deposit
+
+A recurring deposit (RD) allows customers to deposit a fixed amount regularly, usually every month, for a specified period.
+
+The bank pays interest according to the applicable recurring deposit scheme.
+
+Recurring deposits can help customers develop a regular savings habit.
+
+The maturity amount depends on the monthly deposit, deposit period, interest rate, and the bank's calculation method.
+
+Missing an instalment may result in penalties or other consequences under the bank's terms.
+
+## 5. Personal Loan
+
+A personal loan is generally an unsecured loan that customers can use for personal expenses, subject to the lender's terms.
+
+Banks evaluate several factors before approving a personal loan, including income, employment status, credit history, existing financial obligations, and repayment capacity.
+
+The interest rate may be fixed or variable, depending on the loan agreement.
+
+Customers must repay the loan through instalments, commonly called Equated Monthly Instalments (EMIs).
+
+An EMI generally includes both principal and interest.
+
+Before accepting a loan, customers should check the interest rate, processing fee, repayment period, late payment charges, and foreclosure conditions.
+
+Loan approval and interest rates depend on the lender's eligibility criteria.
+
+## 6. Home Loan
+
+A home loan is a loan used to purchase, construct, or renovate residential property, depending on the lender's product.
+
+The property generally serves as security for the loan.
+
+Banks consider the applicant's income, credit history, existing liabilities, age, repayment capacity, and property documents when assessing an application.
+
+Home loan repayment generally takes place through monthly instalments.
+
+The EMI depends on the loan amount, interest rate, and repayment tenure.
+
+Borrowers should compare the total interest payable, processing fees, applicable insurance requirements, prepayment conditions, and other charges before choosing a home loan.
+
+## 7. Debit Cards
+
+A debit card allows customers to access funds available in their linked bank account.
+
+Debit cards can be used for eligible ATM withdrawals, point-of-sale payments, and online transactions.
+
+Transaction limits depend on the bank, card type, and customer settings.
+
+Customers should never share their PIN, CVV, OTP, or other confidential authentication details with anyone.
+
+If a debit card is lost or stolen, the customer should immediately contact the bank and request that the card be blocked.
+
+Customers should regularly check their account statements and report unauthorised transactions promptly.
+
+## 8. Credit Cards
+
+A credit card allows customers to make purchases using a credit limit provided by the card issuer.
+
+Customers receive a billing statement showing their transactions and outstanding amount.
+
+Paying the total outstanding amount by the due date generally avoids interest on ordinary purchases, subject to the card's terms and applicable rules.
+
+Paying only the minimum amount due may prevent certain immediate consequences of non-payment, but interest and other charges may continue to accumulate.
+
+Cash advances may attract fees and interest.
+
+Customers should review the annual fee, interest rate, billing cycle, due date, late payment charges, and reward conditions before using a credit card.
+
+## 9. UPI Payments
+
+Unified Payments Interface (UPI) is a payment system that enables users to transfer money between participating bank accounts using supported applications.
+
+Customers can use UPI to make eligible person-to-person and merchant payments.
+
+A UPI PIN is used to authorise certain transactions. Customers should never disclose their UPI PIN to another person.
+
+Receiving money through UPI does not ordinarily require entering a UPI PIN.
+
+Customers should verify the recipient's details before sending money.
+
+If a transaction fails or money is debited without the recipient receiving it, customers should check the transaction status and contact their bank or payment application provider.
+
+## 10. Internet Banking
+
+Internet banking allows customers to access banking services through a bank's official website.
+
+Depending on the bank, customers may be able to view account balances, download statements, transfer funds, pay bills, and manage certain account services.
+
+Customers should access internet banking through the bank's verified official website.
+
+They should avoid logging in through links received in suspicious messages or emails.
+
+Customers should use strong passwords, enable available security features, and log out after completing banking activities on shared computers.
+
+## 11. Know Your Customer (KYC)
+
+Know Your Customer (KYC) is a process used by regulated financial institutions to verify customer identity and address and fulfil applicable regulatory requirements.
+
+Depending on the customer and account type, KYC may involve identity documents, address documents, PAN-related information, or permitted alternative documentation.
+
+Banks may request updated information when required by applicable regulations.
+
+Customers should provide documents only through verified banking channels.
+
+Customers should never disclose their internet banking password, ATM PIN, CVV, or OTP to someone claiming to complete KYC.
+
+## 12. Fraud Prevention
+
+Banking fraud can involve phishing messages, fake customer care numbers, fraudulent payment requests, identity theft, and unauthorised transactions.
+
+Customers should never share their OTP, PIN, CVV, passwords, or confidential banking credentials.
+
+They should not install unknown applications or grant remote access to their devices at the request of an unverified caller.
+
+Customers should verify payment requests before approving them.
+
+If an unauthorised electronic transaction occurs, the customer should immediately notify the bank through its official reporting channels.
+
+In India, suspected cybercrime can be reported through the National Cyber Crime Reporting Portal. Financial cyber fraud can also be reported by calling the national cybercrime helpline at 1930.
+
+Customers should preserve transaction references, messages, and other relevant evidence when reporting fraud.
+
+## 13. Bank Account Statements
+
+A bank account statement is a record of transactions during a specified period.
+
+It typically includes transaction dates, descriptions, debit amounts, credit amounts, and account balances.
+
+Customers can generally obtain statements through internet banking, mobile banking, ATMs where supported, or bank branches.
+
+Customers should review statements regularly to identify errors or unauthorised transactions.
+
+If a transaction appears incorrect, the customer should contact the bank promptly and provide the relevant transaction details.
+
+## 14. EMI Calculation
+
+An Equated Monthly Instalment (EMI) is a fixed periodic payment used to repay a loan over an agreed period.
+
+For a standard loan with a monthly reducing balance, the EMI can be calculated using the following formula:
+
+EMI = P × r × (1 + r)^n / ((1 + r)^n - 1)
+
+Where:
+
+P = Principal loan amount.
+
+r = Monthly interest rate expressed as a decimal.
+
+n = Total number of monthly instalments.
+
+For example, consider a loan of ₹100,000 at an annual interest rate of 12%, repayable over 12 months.
+
+Principal = ₹100,000.
+
+Monthly interest rate = 12% / 12 = 1% = 0.01.
+
+Number of instalments = 12.
+
+Using the EMI formula, the monthly instalment is approximately ₹8,885.
+
+The actual EMI may vary depending on the lender's calculation method, fees, and loan terms.
+
+## 15. Customer Support and Complaints
+
+Customers should first contact their bank through its official customer service channels when they have questions about transactions, account access, fees, or other banking services.
+
+They should retain complaint reference numbers and relevant transaction details.
+
+If the bank does not resolve an eligible complaint satisfactorily within the applicable period, the customer may be able to approach the Reserve Bank of India's Complaint Management System under the applicable Integrated Ombudsman Scheme.
+
+Customers should use official RBI and bank websites to verify complaint eligibility, timelines, and submission procedures.
+
+## 16. Important Banking Disclaimer
+
+This document provides general banking information for educational purposes.
+
+Actual interest rates, account requirements, fees, eligibility criteria, transaction limits, and other conditions vary by bank, product, customer category, and applicable regulations.
+
+Customers should verify current terms directly with their bank or the relevant official regulatory authority before making financial decisions.
